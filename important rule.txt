@@ -1,0 +1,11 @@
+Description: This game for the Internet game, set a maximum of 10 players, forced to kick out after death.
+The executable file is Start.exe. Click to open it
+You can hold down Alt+Tab to view the game loading process on the console.
+
+Operation: W, S, A, D walk
+Left mouse button shooting (all characters are enemies)
+Esc key to exit the game (do not close the console window, it will malfunction)
+
+Problem: A white screen will appear when opened (because it takes time to load the pistol model), just wait 15s! Just wait 15 seconds! Just wait 15 seconds!
+If you can not move in the input method may be affected, press shift.
+If you can't see anyone else, it's because you're the only one on the server
