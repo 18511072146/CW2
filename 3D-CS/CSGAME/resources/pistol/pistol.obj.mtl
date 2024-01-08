@@ -1,0 +1,28 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.0.1262)
+
+newmtl Metal_Chrome
+kd 0.439216 0.439216 0.439216
+ka 0 0 0
+ks 0.898039 0.898039 0.898039
+d 1
+Ns 20
+illum 2
+
+newmtl Wood_Ashen
+kd 0.580392 0.411765 0.196078
+ka 0.580392 0.411765 0.196078
+ks 0.898039 0.898039 0.898039
+d 1
+illum 1
+map_kd ASHSEN_2.GIF
+bump ASHSEN_2.GIF
+map_bump ASHSEN_2.GIF
+
+newmtl %%%DEFAULT
+kd 0.3 0.3 0.3
+ka 0 0 0
+ks 0 0 0
+d 1
+illum 1
+
